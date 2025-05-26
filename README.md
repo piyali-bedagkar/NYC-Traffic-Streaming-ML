@@ -57,12 +57,12 @@ This project addresses the problem of delayed traffic responsiveness in urban ar
 ### 📊 Dashboard Features
 
 📍 Tab 1: Traffic Overview
--Vehicle counts, route stats, average speed
--Live map showing congestion as:
+- Vehicle counts, route stats, average speed
+- Live map showing congestion as:
    🔴 Red (speed < 30 kmph)
    🟡 Yellow (30–60 kmph)
    🟢 Green (> 60 kmph)
 
 🧠 Tab 2: ML Predictions
--Table of predicted travel times
--Destination point maps colored by delay
+- Table of predicted travel times
+- Destination point maps colored by delay
