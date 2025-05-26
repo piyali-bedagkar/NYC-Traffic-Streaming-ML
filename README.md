@@ -36,20 +36,20 @@ This project addresses the problem of delayed traffic responsiveness in urban ar
 
 ### 🚀 How to Run
 
-1. Generate Training Data & Train Model
-   python generate_training_data.py
+1. Generate Training Data & Train Model - 
+   python generate_training_data.py,
    python train_model.py
 
-2. Start Kafka Producer (Simulate Vehicles)
+2. Start Kafka Producer (Simulate Vehicles) - 
    python kafka_producer_nyc.py
    
-3. Start Kafka Consumer (Receive Data)
+3. Start Kafka Consumer (Receive Data) - 
    python kafka_consumer_nyc.py
    
-4. Predict Travel Times
+4. Predict Travel Times - 
    python predict_live_travel_time.py
    
-5. Launch Streamlit Dashboard
+5. Launch Streamlit Dashboard - 
    streamlit run streamlit_heatmap_dashboard.py
 
 ---
